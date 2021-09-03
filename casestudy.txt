@@ -1,0 +1,21 @@
+learning management system
+allow user to register for our system for certain courses
+create one UI
+someone will subscribe for java course
+we will provide path
+and create quiz for him'
+we will track the result for that person
+if course is for 15 days we need to schdule 15 days
+after 15 days put one quiz
+store marks of one particular candidate
+marks need tobe recorded
+calaculate percentage of scores
+evaluate knowledge
+
+
+document:
+case study synopsis
+
+what technology we will be using->Mysql,Spring and spring boot, Teamleaf/react/angular,CICD(Devops)
+
+
